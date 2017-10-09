@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "HiyoHiyoIsland.data.unityweb",
+"asmCodeUrl": "HiyoHiyoIsland.asm.code.unityweb",
+"asmMemoryUrl": "HiyoHiyoIsland.asm.memory.unityweb",
+"asmFrameworkUrl": "HiyoHiyoIsland.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
